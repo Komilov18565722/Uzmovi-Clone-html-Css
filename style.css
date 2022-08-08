@@ -1,0 +1,96 @@
+.container {
+    background-color : rgb(48, 46, 46);
+}
+
+.nav-units {
+    width: 100%;
+}
+
+.site-name {
+    font-family: Times;
+    font-size: 300%;
+    color: whitesmoke;
+}
+
+
+.nav-unit a {
+    float: right;
+    text-decoration-line: none;
+    color: antiquewhite;
+    padding-right: 5%;
+    padding-top: 2%;
+    font-size: 150%;
+}
+
+.nav-unit a:hover{
+    color: black;
+    cursor: pointer;
+}
+
+.link-for-telegram h5 {
+    background-color: rgb(0, 208, 255);
+    border-radius: 2%;
+    text-align: center;
+    padding: 5px;
+    
+}
+
+.link-for-telegram i{
+    padding: 5px ;
+
+}
+
+.link-for-telegram{
+    padding: 10px 0px;
+    font-family: Cambria;
+    color:aliceblue;
+
+}
+
+.link-for-telegram :hover{
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+}
+
+.searching{
+    padding: 10px;
+    
+}
+
+
+
+.searching input, label{
+    padding: 1px 3px;
+    background-color: rgb(88, 85, 85);
+    border-radius: 1%;
+    color: wheat;
+}
+
+.col1{
+    background-color: rgb(140, 140, 143);
+}
+
+.col2{
+    background-color: rgb(94, 95, 95);
+    padding: 0px;
+}
+
+/* .col2 h3{
+    font-family: Lucida;
+    padding: 3px 5px;
+} */
+
+.col2 h5, h3{
+    font-family: Lucida;
+    padding: 3px 5px;
+    text-decoration-line: none;
+    color: antiquewhite;
+    text-align: center;
+
+}
+
+.col2 a img{
+    padding: 5px;
+    text-align: center;
+}
